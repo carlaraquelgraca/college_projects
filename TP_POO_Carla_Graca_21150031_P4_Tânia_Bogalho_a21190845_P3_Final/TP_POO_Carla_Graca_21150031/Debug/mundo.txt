@@ -1,0 +1,6 @@
+mundo ola 5 5
+criai 3
+criaj 2
+criam 4
+hospital 0 0
+pantano  1 0
